@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Nauber, the IT guy!</h2>
+<h2 align="left">Hello World! I'm Nauber, I like to code! Ola Mundo! Sou o Nauber, o cara do T.I </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">omg hiii! Look at this programming languages (or not):</h4>
+<h4 align="left">omg hiii! Here are some programming languages ​​that I know how to use, including design apps </h4>
 
 ###
 
