@@ -1,4 +1,5 @@
-<h2 align="left">Hello World! I'm Nauber, I like to code! Ola Mundo! Sou o Nauber, o cara do T.I </h2>
+<h2 align="left">Hello World! I'm Nauber, I like to code!</h2>
+<h2 align="left">Ola Mundo! Sou o Nauber, o cara do T.I</h2>
 
 ###
 
