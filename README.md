@@ -1,65 +1,23 @@
-<h2 align="left">Hello World! I'm Nauber, 20 yo and coding!</h2>
-
-###
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naubo&show_icons=true&theme=dracula" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naubo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h4 align="left">omg hiii! Here are some programming languages ​​that I know how to use, including design apps </h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<h4 align="left">You can find me here too:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nauber-gutieres-a9b5522b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  
-  <a href="mailto:nauber.gutieres@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  
-  <a href="https://www.instagram.com/baubxs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ppsffvkuwi6gj6l2pxry82cds&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile">
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/16/5e/a1/165ea1fd36de790d7fd64b5a1fd8e5bb.gif"  />
-</div>
+# 💫 About Me:
+💻 Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e suporte técnico.<br>Experiência em HTML, CSS, JavaScript, PHP e redes, atuando na Adium Brasil com suporte, manutenção e infraestrutura.<br>🚀 Buscando sempre aprender e contribuir com soluções eficientes em tecnologia.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baubxs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naubergutieres) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nauber.gutieres@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NAUBO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAUBO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NAUBO&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NAUBO&icon=1&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
